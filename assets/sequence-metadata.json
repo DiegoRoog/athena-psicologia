@@ -1,0 +1,104 @@
+{
+  "frameCount": 240,
+  "source": "ezgif-1e281754596eacd2-jpg.zip",
+  "sourceDimensions": [
+    1280,
+    720
+  ],
+  "sourceBytes": 7187424,
+  "indexing": "one-based; frame-0001 through frame-0240; numeric ascending order",
+  "desktop": {
+    "directory": "/frames/desktop",
+    "extension": ".jpg",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "encoding": "original JPEG bytes, no recompression",
+    "bytes": 7187424
+  },
+  "mobile": {
+    "directory": "/frames/mobile",
+    "extension": ".webp",
+    "dimensions": [
+      768,
+      432
+    ],
+    "quality": 60,
+    "bytes": 4790414
+  },
+  "bust": {
+    "path": "/images/golden-bust.png",
+    "mode": "RGBA",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "reference": {
+    "path": "docs/reference/hero-reference.png",
+    "dimensions": [
+      1672,
+      940
+    ]
+  },
+  "milestones": [
+    {
+      "frames": [
+        1,
+        12
+      ],
+      "label": "Centered, hands joined"
+    },
+    {
+      "frames": [
+        24,
+        48
+      ],
+      "label": "Arms start opening while camera approaches"
+    },
+    {
+      "frames": [
+        48,
+        96
+      ],
+      "label": "Palms open; maximum extension near frames 72–84"
+    },
+    {
+      "frames": [
+        108,
+        144
+      ],
+      "label": "Hands return and join; close camera"
+    },
+    {
+      "frames": [
+        156,
+        192
+      ],
+      "label": "Camera pulls back and statue shifts right"
+    },
+    {
+      "frames": [
+        192,
+        240
+      ],
+      "label": "Statue on right, generous left editorial space"
+    }
+  ],
+  "recommendedBustWindow": {
+    "fadeInFrames": [
+      52,
+      62
+    ],
+    "holdFrames": [
+      62,
+      90
+    ],
+    "fadeOutFrames": [
+      90,
+      102
+    ],
+    "rationale": "Visible only while open palms leave the chest unobstructed"
+  }
+}

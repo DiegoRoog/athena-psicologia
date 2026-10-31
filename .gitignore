@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.npm-cache/
+*.tsbuildinfo
+test-results/
+playwright-report/
+.env*
+assets/source-frames/
+docs/qa/test-results/
+docs/qa/playwright-results.json
+docs/qa/*.png
+docs/qa/*.zip
