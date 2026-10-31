@@ -33,7 +33,7 @@ npm run build
 npm start
 ```
 
-A saída de produção fica em `out/`. O comando `npm start` usa `scripts/serve.mjs`, sem dependência adicional, na porta 3000. Execute apenas uma prévia por vez: encerre `npm run dev` antes de `npm start`. Não é necessário backend, banco de dados, chave de API ou serviço pago. A entrega é local; nenhuma publicação externa foi realizada.
+A saída de produção fica em `out/`. O comando `npm start` usa `scripts/serve.mjs`, sem dependência adicional, na porta 3000. Execute apenas uma prévia por vez: encerre `npm run dev` antes de `npm start`. Não é necessário backend, banco de dados, chave de API ou serviço pago. O site também está publicado pelo GitHub Pages no endereço informado acima.
 
 ## Verificar
 

@@ -10,7 +10,7 @@ Diretório exclusivo confirmado para o projeto:
 C:\Users\Diego\OneDrive\Desktop\Landing Page\M. Psicologia\Código Psi
 ```
 
-Todo o desenvolvimento da landing page foi concentrado na subpasta `athena-landing-page`, conforme solicitado. Assets preparados, código, dependências locais, testes e documentação ficam nessa pasta. A configuração prévia das skills foi preservada na raiz. Não houve alteração do Facirap V2, instalação global de skills, criação de backend ou publicação externa.
+Todo o desenvolvimento da landing page foi concentrado na subpasta `athena-landing-page`, conforme solicitado. Assets preparados, código, dependências locais, testes e documentação ficam nessa pasta. A configuração prévia das skills foi preservada na raiz. Não houve alteração do Facirap V2, instalação global de skills ou criação de backend. Após a entrega local, o usuário autorizou a publicação no GitHub e GitHub Pages.
 
 A experiência implementa a abertura editorial, o título em HTML, a sequência reversível, a abertura das mãos com mensagens e busto dourado, a troca de narrativas, a composição final com a escultura à direita e os dois CTAs demonstrativos.
 
